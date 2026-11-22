@@ -46,7 +46,7 @@ chmod +x build.sh
 ### 1. Собрать проект
 
 ```bash
-build.bat
+build.cmd
 ```
 
 ### 2. Запуск
